@@ -42,7 +42,7 @@
     }
   },
   "dependencies": {
-    "ethers": "5.7.1"
+    "ethers": "5.7.2"
   },
   "devDependencies": {
     "@ethereum-waffle/jest": "3.3.2",
