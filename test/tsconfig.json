@@ -20,5 +20,12 @@
     "forceConsistentCasingInFileNames": true,
     "outDir": "../out/test"
   },
+  "files": [
+    "../node_modules/@nomiclabs/hardhat-ethers/internal/index.d.ts",
+    "../node_modules/@types/mocha/index.d.ts",
+    "../node_modules/@types/chai/index.d.ts",
+    "../node_modules/@types/chai-as-promised/index.d.ts",
+    "../node_modules/@ethereum-waffle/chai/dist/esm/types.d.ts"
+  ],
   "include": ["./**/*.ts", "./**/*.tsx"]
 }

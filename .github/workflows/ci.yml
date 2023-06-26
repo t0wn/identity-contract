@@ -26,7 +26,9 @@ jobs:
         run: npm ci
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - name: Prepare CI
+        run: npm run ci-prepare
       - name: Build
-        run: npm run build:ci
+        run: npm run build
       - name: Test
         run: npm run test -- --ci --maxWorkers=1 --reporters=default

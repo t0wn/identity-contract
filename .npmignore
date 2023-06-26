@@ -6,6 +6,7 @@ src
 .eslintrc.yml
 .gitignore
 .prettierrc
+.secrets.json
 npm-debug.log
 tsconfig.json
 
