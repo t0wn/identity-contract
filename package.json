@@ -1,17 +1,17 @@
 {
-  "author": "Michael D. Norman",
-  "name": "CHANGEME",
+  "author": "tOwn",
+  "name": "identity-contract",
   "description": "",
   "private": true,
   "license": "UNLICENSED",
   "version": "0.0.0",
-  "homepage": "https://github.com/mdnorman/CHANGEME/wiki/Home",
+  "homepage": "https://github.com/t0wn/identity-contract/wiki/Home",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mdnorman/CHANGEME"
+    "url": "https://github.com/t0wn/identity-contract"
   },
   "bugs": {
-    "url": "https://github.com/mdnorman/CHANGEME/issues"
+    "url": "https://github.com/t0wn/identity-contract/issues"
   },
   "files": [
     "artifacts",
@@ -87,7 +87,7 @@
     }
   },
   "standard-version": {
-    "issueUrlFormat": "https://github.com/mdnorman/CHANGEME/issues/{{id}}",
+    "issueUrlFormat": "https://github.com/tOwn/identity-contract/issues/{{id}}",
     "issuePrefixes": [
       "#"
     ],

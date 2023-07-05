@@ -1,4 +1,4 @@
-# CHANGEME
+# tOwn Identity Contract
 
 ## Setup
 
