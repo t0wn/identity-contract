@@ -7,7 +7,7 @@ import { etherscanApiKey, networks } from './.secrets.json';
 
 const hardhatConfig: HardhatUserConfig = {
   solidity: {
-    version: '0.8.9',
+    version: '0.8.20',
     settings: {
       optimizer: {
         enabled: true,

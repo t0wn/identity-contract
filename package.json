@@ -42,6 +42,8 @@
     }
   },
   "dependencies": {
+    "@gnus.ai/contracts-upgradeable-diamond": "4.9.1",
+    "@openzeppelin/contracts": "4.9.2",
     "ethers": "5.7.2"
   },
   "devDependencies": {
